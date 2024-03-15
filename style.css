@@ -10,3 +10,10 @@ h2 {
 p {
     color: saddlebrown;
 }
+
+.post {
+    background-color: orange;
+    border-radius: 5px;
+    padding: 1.01em;
+    margin: 15px;
+}
